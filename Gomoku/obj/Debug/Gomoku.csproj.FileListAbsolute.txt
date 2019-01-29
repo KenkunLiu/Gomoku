@@ -1,0 +1,9 @@
+C:\Users\abel\Desktop\Tutorial\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+C:\Users\abel\Desktop\Tutorial\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+C:\Users\abel\Desktop\Tutorial\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+C:\Users\abel\Desktop\Tutorial\Gomoku\Gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\abel\Desktop\Tutorial\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\abel\Desktop\Tutorial\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.Cache
+C:\Users\abel\Desktop\Tutorial\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+C:\Users\abel\Desktop\Tutorial\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
+C:\Users\abel\Desktop\Tutorial\Gomoku\Gomoku\obj\Debug\Gomoku.Form1.resources
